@@ -1,0 +1,6 @@
+run
+exit
+console
+:load helloWorld.scala
+run
+exit

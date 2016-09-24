@@ -1,0 +1,11 @@
+run
+Main.balance(
+s = "
+s="Pr(oband)do el )test(( de (parentesas)"
+v
+val s= s="Pr(oband)do el )test)(( de (parentesas)"
+val s="Pr(oband)do el )test)(( de (parentesas)"
+"hola".toList
+console
+xit
+exit

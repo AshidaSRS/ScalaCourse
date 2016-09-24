@@ -1,0 +1,19 @@
+run
+:load /home/ashida/.github/ScalaCourse/Tarea:Recursion/recfun/src/main/scala/recfun/Main.scala
+console
+      if(c == 0 || r == 0)
+        return 1
+      else
+        return (pascal(c-1,r-1)+pascal(c,r-1))
+:load /home/ashida/.github/ScalaCourse/Tarea:Recursion/recfun/src/main/scala/recfun/Main.scala
+console
+exit
+console
+run
+exit
+console
+Main.pascal(4,4)
+console
+exit
+run
+exit
